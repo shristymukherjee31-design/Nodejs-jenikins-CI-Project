@@ -168,8 +168,8 @@ Hello Node!
 
 showing the `curl` command and `Hello Node!` response.
 
+<img width="1920" height="1080" alt="Screenshot 2026-09-15 213245" src="https://github.com/user-attachments/assets/30196500-5ca3-4c0a-8258-a191c876efd7" />
 
-<img width="713" height="216" alt="image" src="https://github.com/user-attachments/assets/4fb13f83-148d-47d7-87d4-b70138e885f3" />
 
 
 ---
